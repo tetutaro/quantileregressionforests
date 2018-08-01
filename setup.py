@@ -8,7 +8,7 @@ import quantileregressionforests
 def setup_package():
     metadata = dict()
     metadata['name'] = quantileregressionforests.__package__
-    metadata['version'] = quantileregressionforesgts.__version__
+    metadata['version'] = quantileregressionforests.__version__
     metadata['description'] = quantileregressionforests.description_
     metadata['author'] = quantileregressionforests.author_
     metadata['url'] = quantileregressionforests.url_

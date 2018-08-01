@@ -6,7 +6,7 @@ Meinshausen, Nicolai. "Quantile regression forests." Journal of Machine Learning
 
 # インストール方法
 
-`> pip install git+https://github.com/tetutaro/quantileregressionforests
+`> pip install git+https://github.com/tetutaro/quantileregressionforests`
 
 # Quantile Regressoin Forests
 
